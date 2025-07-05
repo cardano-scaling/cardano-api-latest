@@ -1,0 +1,6 @@
+roots = [
+  "Cardano.Api.Latest.*"
+]
+
+root-instances = [
+]
